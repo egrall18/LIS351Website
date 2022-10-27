@@ -1,0 +1,54 @@
+*{
+	font-family: Arial, Verdana, sans-serif;
+	color: #665544;
+	text-align: center;
+
+}
+body{
+	width: 900px;
+	margin: 0 auto;
+	background-color: slategray;
+}
+nav{
+	background-color: #efefef;
+	padding: 1px;
+	margin-left: 350px;
+	margin-right: -350px;
+	width: 200px;
+}
+li{
+	display: inline;
+	padding: 5px;
+	margin-right: 22px;
+	margin-left: -12px;
+}
+p{
+	color: black;
+}
+h2{
+	font-style: italic;
+}
+section{
+	overflow: auto;
+}
+article{
+	background-color: #efefef;
+	padding: 10px;
+	margin: 10px;
+	width: 275px;
+	margin-left: 100px;
+	float: left;
+}
+.img1{
+	border-style: solid;
+	border-color: black;
+	
+}
+.classes{
+	display: block;
+}
+.hobbies{
+	margin: 10px ;
+	width: 260px;
+
+}
